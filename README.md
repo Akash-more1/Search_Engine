@@ -9,4 +9,10 @@
   or operations.
  Used MySQL, a popular database management system for storing and interacting with data.
 
-![131](https://github.com/Akash-more1/Search_Engine/assets/122983542/12b16394-7ef9-4ab5-ad03-45b55509316a)
+![Screenshot 2023-09-23 190414](https://github.com/Akash-more1/Search_Engine/assets/122983542/826a17e7-9712-41e1-a537-e99904d51769)
+
+
+![Screenshot 2023-09-23 190528](https://github.com/Akash-more1/Search_Engine/assets/122983542/cb4bd0aa-36f8-4538-846f-059a30ff3ce3)
+
+
+![Screenshot 2023-09-23 190624](https://github.com/Akash-more1/Search_Engine/assets/122983542/4bb0e77b-2f44-435a-9cd3-16f94bae95ce)
