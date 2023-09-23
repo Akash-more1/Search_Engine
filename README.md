@@ -8,3 +8,5 @@
  Used Java Servlets for the back end, specifically for creating multiple mini servers to handle different types of calculations
   or operations.
  Used MySQL, a popular database management system for storing and interacting with data.
+
+![131](https://github.com/Akash-more1/Search_Engine/assets/122983542/12b16394-7ef9-4ab5-ad03-45b55509316a)
